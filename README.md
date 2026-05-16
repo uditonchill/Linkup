@@ -1,6 +1,6 @@
-# Sociopedia
+# LINKUP
 
-Sociopedia is a LinkedIn-like social media app where users can sign up, create posts, like, comment, and explore profiles.
+LINKUP is a LinkedIn-like social media app where users can sign up, create posts, like, comment, and explore profiles.
 
 ## Tech Stack
 - MongoDB, Express.js, Node.js
